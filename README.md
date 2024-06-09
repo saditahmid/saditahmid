@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **saditahmid.ts@gmail.com**
 
-- 📄 Know about my experiences [![CV](https://img.shields.io/badge/CV-View-brightgreen)](https://drive.google.com/file/d/16ouD7E1KfFEETGtrhTBPOBaJtFN4iU3O/view?usp=sharing)
+- 📄 Know about my experiences [![CV](https://img.shields.io/badge/CV-View-brightgreen)](https://drive.google.com/file/d/1MV1le_Wce2LpWAvJW0QWDMNYL9AT4qqS/view?usp=sharing)
 
 - ⚡ Fun fact **I'm the guy who's laugh is funnier than the joke** 😂
 # My Research Portfolio
