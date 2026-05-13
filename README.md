@@ -25,22 +25,6 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 
 ---
 
-## Experience
-
-**QA – Senior AI Data Trainer** · Invisible Technologies *(Sep 2024 – Sep 2025)*
-> Cleaned and quality-checked 10,000+ multimodal data samples; led rubric-based QA evaluation of LLM outputs for accuracy, safety, and instruction-following; mentored and onboarded new AI trainers.
-
-**AI Data Trainer** · Outlier AI *(Mar 2024 – Aug 2024)*
-> Created and evaluated multilingual (Bengali–English) prompts to improve LLM accuracy, fluency, and cultural alignment; conducted QA reviews of prompt–response pairs.
-
-**Cloud Engineer Intern** · Inflexionpoint Technologies *(Aug 2023 – Oct 2023)*
-> Built and deployed scalable ML pipelines on AWS and Google Cloud using Docker and Kubernetes.
-
-**Teaching Assistant** · Independent University, Bangladesh *(Feb 2021 – Aug 2022)*
-> Mentored 200+ undergraduate students in programming and data structures.
-
----
-
 ## Publications
 
 > All papers presented at **IEEE** international conferences.
