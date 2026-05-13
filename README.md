@@ -1,106 +1,102 @@
-![MasterHead](https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=2000)
-<h1 align="center">Hi 👋, I'm Mohammed Tahmid Hossain</h1>
-<h3 align="center">An Aspiring Researcher and Machine Learning Engineer from New York</h3>
-<img align="right" alt="Coding" width="400px" src="assets/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saditahmid&label=Profile%20views&color=0e75b6&style=flat" alt="saditahmid" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Cyberthreat classification on IoMT devices**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Mohammed%20Tahmid%20Hossain&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=ML%20Engineer%20%E2%80%A2%20Researcher%20%E2%80%A2%20New%20York&descAlignY=78&descSize=16&animation=twinkling" />
 
-- 💬 Ask me about **Machine Learing**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Cybersecurity+%2B+Machine+Learning+on+IoMT;AI+for+Public+Health+%26+Environmental+Science;Open+to+Research+Collaborations)](https://git.io/typing-svg)
 
-- 📫 How to reach me **saditahmid.ts@gmail.com**
+[![Profile Views](https://komarev.com/ghpvc/?username=saditahmid&label=Profile+Views&color=6d28d9&style=flat-square)](https://github.com/saditahmid)
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-View-6d28d9?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1hWm_gj2x9nJJXGtgrherJe7btsZeDpwB/view?usp=sharing)
 
-- 📄 Know about my experiences [![CV](https://img.shields.io/badge/CV-View-brightgreen)](https://drive.google.com/file/d/1hWm_gj2x9nJJXGtgrherJe7btsZeDpwB/view?usp=sharing)
+</div>
 
-- ⚡ Fun fact **I'm the guy who's laugh is funnier than the joke** 😂
-# My Research Portfolio
+---
 
-Here are some of my research articles:
+## About
 
-1. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Impact of COVID-19 Lockdowns on Air Quality in Bangladesh: Analysis and AQI Forecasting with Support Vector Regression](https://www.researchgate.net/publication/372261119_Impact_of_COVID-19_Lockdowns_on_Air_Quality_in_Bangladesh_Analysis_and_AQI_Forecasting_with_Support_Vector_Regression)
-2. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Understanding the Dynamics of Dengue in Bangladesh: EDA, Climate Correlation, and Predictive Modeling](https://www.researchgate.net/publication/375844451_Understanding_the_Dynamics_of_Dengue_in_Bangladesh_EDA_Climate_Correlation_and_Predictive_Modeling)
-3. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Cyberattacks Classification on Internet of Medical Things Using Information Gain Feature Selection and Machine Learning](https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning)
-4. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models on the Poribohon-BD Vehicle Dataset](https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset)
+I'm a researcher and ML engineer based in New York, working at the intersection of **machine learning**, **cybersecurity**, and **public health**. My current focus is on cyberthreat classification for Internet of Medical Things (IoMT) devices — building smarter, safer healthcare infrastructure through data-driven methods.
 
+- 🔬 &nbsp;Currently working on **cyberthreat classification on IoMT devices**
+- 🧠 &nbsp;Ask me about **Machine Learning**, feature selection, and applied ML for healthcare
+- 📄 &nbsp;4 published research articles — see below
+- ✉️ &nbsp;Reach me at [saditahmid.ts@gmail.com](mailto:saditahmid.ts@gmail.com)
+- ⚡ &nbsp;*My laugh is funnier than the joke*
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saditahmid789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saditahmid789" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammedtahmidhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedtahmidhossain" height="30" width="40" /></a>
-<a href="https://fb.com/ssaditahmid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ssaditahmid" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Mohammed-Tahmid-Hossain" target="blank"><img align="center" src="https://user-images.githubusercontent.com/7831701/36112854-ee5d53d2-0ff8-11e8-84b5-901f6099eba0.png" alt="researchgate" height="30" width="40" /></a>
-</p>
+## Research
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- First group: Python, Pandas, Seaborn, Scikit-Learn, HTML, CSS, Bootstrap -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  
-  <!-- Second group: AWS, Azure, C, Chart.js, C++, Docker, Figma, Flask, Framer, GCP, Git, JavaScript, Kubernetes, Linux -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+> Publications spanning air quality forecasting, epidemiology, IoMT security, and computer vision.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saditahmid&show_icons=true&locale=en&layout=compact" alt="saditahmid" /></p>
+| # | Title | Access |
+|---|-------|--------|
+| 1 | [**Impact of COVID-19 Lockdowns on Air Quality in Bangladesh**: Analysis and AQI Forecasting with Support Vector Regression](https://www.researchgate.net/publication/372261119_Impact_of_COVID-19_Lockdowns_on_Air_Quality_in_Bangladesh_Analysis_and_AQI_Forecasting_with_Support_Vector_Regression) | ![Open Access](https://img.shields.io/badge/Open%20Access-brightgreen?style=flat-square) |
+| 2 | [**Understanding the Dynamics of Dengue in Bangladesh**: EDA, Climate Correlation, and Predictive Modeling](https://www.researchgate.net/publication/375844451_Understanding_the_Dynamics_of_Dengue_in_Bangladesh_EDA_Climate_Correlation_and_Predictive_Modeling) | ![Open Access](https://img.shields.io/badge/Open%20Access-brightgreen?style=flat-square) |
+| 3 | [**Cyberattacks Classification on IoMT**: Using Information Gain Feature Selection and Machine Learning](https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning) | ![Open Access](https://img.shields.io/badge/Open%20Access-brightgreen?style=flat-square) |
+| 4 | [**Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models** on the Poribohon-BD Vehicle Dataset](https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset) | ![Open Access](https://img.shields.io/badge/Open%20Access-brightgreen?style=flat-square) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saditahmid&show_icons=true&locale=en" alt="saditahmid" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saditahmid&" alt="saditahmid" /></p>
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML / Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Web & Cloud**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=saditahmid&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=saditahmid&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saditahmid&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedtahmidhossain)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammed-Tahmid-Hossain)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saditahmid789)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ssaditahmid)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" />
+</div>
