@@ -19,8 +19,8 @@ Here are some of my research articles:
 
 1. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Impact of COVID-19 Lockdowns on Air Quality in Bangladesh: Analysis and AQI Forecasting with Support Vector Regression](https://www.researchgate.net/publication/372261119_Impact_of_COVID-19_Lockdowns_on_Air_Quality_in_Bangladesh_Analysis_and_AQI_Forecasting_with_Support_Vector_Regression)
 2. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Understanding the Dynamics of Dengue in Bangladesh: EDA, Climate Correlation, and Predictive Modeling](https://www.researchgate.net/publication/375844451_Understanding_the_Dynamics_of_Dengue_in_Bangladesh_EDA_Climate_Correlation_and_Predictive_Modeling)
-3. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Cyberattacks Classification on Internet of Medical Things Using Information Gain Feature Selection and Machine Learning] (https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning)
-4. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models on the Poribohon-BD Vehicle Dataset] (https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset)
+3. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Cyberattacks Classification on Internet of Medical Things Using Information Gain Feature Selection and Machine Learning](https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning)
+4. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models on the Poribohon-BD Vehicle Dataset](https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset)
 
 
 
