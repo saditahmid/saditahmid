@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Mohammed Tahmid Hossain</h1>
-<h3 align="center">An Aspiring Researcher and Machine Learning Engineer from Bangladesh</h3>
+<h3 align="center">An Aspiring Researcher and Machine Learning Engineer from New York</h3>
 <img align="right" alt = "Coding" width = 400px src= "https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saditahmid&label=Profile%20views&color=0e75b6&style=flat" alt="saditahmid" /> </p>
 
@@ -19,6 +19,8 @@ Here are some of my research articles:
 
 1. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Impact of COVID-19 Lockdowns on Air Quality in Bangladesh: Analysis and AQI Forecasting with Support Vector Regression](https://www.researchgate.net/publication/372261119_Impact_of_COVID-19_Lockdowns_on_Air_Quality_in_Bangladesh_Analysis_and_AQI_Forecasting_with_Support_Vector_Regression)
 2. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Understanding the Dynamics of Dengue in Bangladesh: EDA, Climate Correlation, and Predictive Modeling](https://www.researchgate.net/publication/375844451_Understanding_the_Dynamics_of_Dengue_in_Bangladesh_EDA_Climate_Correlation_and_Predictive_Modeling)
+3. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Cyberattacks Classification on Internet of Medical Things Using Information Gain Feature Selection and Machine Learning] (https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning)
+4. ![Open Access](https://img.shields.io/badge/Open-Access-brightgreen) [Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models on the Poribohon-BD Vehicle Dataset] (https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset)
 
 
 
