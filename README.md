@@ -17,8 +17,8 @@
 Data Quality Specialist and AI Researcher with 2+ years of experience in **multimodal data annotation**, **LLM evaluation**, and AI training workflows. Currently pursuing an MS in Computer Science (Big Data Systems) at **Arizona State University**. Published author at IEEE international conferences with applied research in machine learning, environmental analytics, and healthcare cybersecurity.
 
 - 🎓 &nbsp;MS Computer Science – Big Data Systems @ **Arizona State University** *(May 2026 – Present)*
-- 🔬 &nbsp;Research focus: **cyberthreat classification on IoMT devices**
-- 🧠 &nbsp;Ask me about **LLM evaluation**, feature selection, and applied ML for healthcare
+- 🔬 &nbsp;Research areas: **IoMT cybersecurity**, public health modeling, environmental analytics, and computer vision
+- 🤖 &nbsp;Industry experience in **LLM evaluation**, multimodal annotation, and RLHF pipelines
 - 🌐 &nbsp;Portfolio: [saditahmid.github.io](https://saditahmid.github.io)
 - ✉️ &nbsp;[saditahmid.ts@gmail.com](mailto:saditahmid.ts@gmail.com)
 - ⚡ &nbsp;*My laugh is funnier than the joke*
