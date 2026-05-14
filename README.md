@@ -27,14 +27,22 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 
 ## Publications
 
-> All papers presented at **IEEE** international conferences.
+<div align="center">
 
-| # | Title | Venue |
-|---|-------|-------|
-| 1 | [**Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models** on the Poribohon-BD Vehicle Dataset](https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset) | IEEE SCOReD 2025 · Malaysia |
-| 2 | [**Cyberattacks Classification on IoMT** Using Information Gain Feature Selection and Machine Learning](https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning) | IEEE ASET 2024 · UAE |
-| 3 | [**Understanding the Dynamics of Dengue in Bangladesh**: EDA, Climate Correlation, and Predictive Modeling](https://www.researchgate.net/publication/375844451_Understanding_the_Dynamics_of_Dengue_in_Bangladesh_EDA_Climate_Correlation_and_Predictive_Modeling) | IEEE TENCON 2023 · Thailand |
-| 4 | [**Impact of COVID-19 Lockdowns on Air Quality in Bangladesh**: AQI Forecasting with Support Vector Regression](https://www.researchgate.net/publication/372261119_Impact_of_COVID-19_Lockdowns_on_Air_Quality_in_Bangladesh_Analysis_and_AQI_Forecasting_with_Support_Vector_Regression) | IEEE INCET 2023 · India |
+![Citations](https://img.shields.io/badge/Citations-29-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
+![h-index](https://img.shields.io/badge/h--index-3-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
+![i10-index](https://img.shields.io/badge/i10--index-2-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
+
+</div>
+
+> All papers presented at **IEEE** international conferences. Citation data from [Google Scholar](https://scholar.google.com/citations?user=-ThWYkwAAAAJ&hl=en).
+
+| # | Title | Venue | Cited by |
+|---|-------|-------|:--------:|
+| 1 | [**Cyberattacks Classification on IoMT** Using Information Gain Feature Selection and Machine Learning](https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning) | IEEE ASET 2024 · UAE | **10** |
+| 2 | [**Impact of COVID-19 Lockdowns on Air Quality in Bangladesh**: AQI Forecasting with Support Vector Regression](https://www.researchgate.net/publication/372261119_Impact_of_COVID-19_Lockdowns_on_Air_Quality_in_Bangladesh_Analysis_and_AQI_Forecasting_with_Support_Vector_Regression) | IEEE INCET 2023 · India | **12** |
+| 3 | [**Understanding the Dynamics of Dengue in Bangladesh**: EDA, Climate Correlation, and Predictive Modeling](https://www.researchgate.net/publication/375844451_Understanding_the_Dynamics_of_Dengue_in_Bangladesh_EDA_Climate_Correlation_and_Predictive_Modeling) | IEEE TENCON 2023 · Thailand | **7** |
+| 4 | [**Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models** on the Poribohon-BD Vehicle Dataset](https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset) | IEEE SCOReD 2025 · Malaysia | — |
 
 ---
 
@@ -99,6 +107,7 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedtahmidhossain)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-ThWYkwAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammed-Tahmid-Hossain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://saditahmid.github.io)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saditahmid789)
