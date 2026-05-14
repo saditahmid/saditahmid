@@ -38,13 +38,15 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 
 ---
 
-## Selected Projects
 
-**[Student Performance Monitoring System](https://github.com/saditahmid/SPM_Advanced)**
-> Cloud-based web app built with Node.js (Express) and SQLite to track and analyze academic performance at Independent University, Bangladesh. Enabled faculty to monitor student progress with real-time data views.
+## Featured Work
 
-**[AQI Exploratory Data Analysis](https://saditahmid.github.io)**
-> Analyzed Bangladesh's Air Quality Index (2014–2023) across 8 major locations using Python to study the environmental impact of COVID-19 lockdowns. Visualized environmental trends to support data-driven policy discussions.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**AQI Bangladesh EDA**](https://saditahmid.github.io) | 9-year longitudinal analysis of air quality across 13 Bangladesh cities. Seasonal heatmaps, COVID-19 lockdown impact analysis, city pollution rankings. | Python · Pandas · Seaborn |
+| [**Student Performance Monitor**](https://github.com/saditahmid/SPM_Advanced) | Cloud-based web app for tracking and visualizing academic performance at scale. | Node.js · Express · SQLite |
+
+> 📄 All research datasets, notebooks, and analysis code are available in the repositories above.
 
 ---
 
@@ -89,20 +91,6 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=saditahmid&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=saditahmid&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com/?user=saditahmid&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-</div>
 
 ---
 
