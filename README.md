@@ -39,8 +39,8 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 
 | # | Title | Venue | Cited by |
 |---|-------|-------|:--------:|
-| 1 | [**Cyberattacks Classification on IoMT** Using Information Gain Feature Selection and Machine Learning](https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning) | IEEE ASET 2024 · UAE | **10** |
-| 2 | [**Impact of COVID-19 Lockdowns on Air Quality in Bangladesh**: AQI Forecasting with Support Vector Regression](https://www.researchgate.net/publication/372261119_Impact_of_COVID-19_Lockdowns_on_Air_Quality_in_Bangladesh_Analysis_and_AQI_Forecasting_with_Support_Vector_Regression) | IEEE INCET 2023 · India | **12** |
+| 1 | [**Impact of COVID-19 Lockdowns on Air Quality in Bangladesh**: AQI Forecasting with Support Vector Regression](https://www.researchgate.net/publication/372261119_Impact_of_COVID-19_Lockdowns_on_Air_Quality_in_Bangladesh_Analysis_and_AQI_Forecasting_with_Support_Vector_Regression) | IEEE INCET 2023 · India | **12** |
+| 2 | [**Cyberattacks Classification on IoMT** Using Information Gain Feature Selection and Machine Learning](https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning) | IEEE ASET 2024 · UAE | **10** |
 | 3 | [**Understanding the Dynamics of Dengue in Bangladesh**: EDA, Climate Correlation, and Predictive Modeling](https://www.researchgate.net/publication/375844451_Understanding_the_Dynamics_of_Dengue_in_Bangladesh_EDA_Climate_Correlation_and_Predictive_Modeling) | IEEE TENCON 2023 · Thailand | **7** |
 | 4 | [**Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models** on the Poribohon-BD Vehicle Dataset](https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset) | IEEE SCOReD 2025 · Malaysia | — |
 
@@ -51,7 +51,7 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**AQI Bangladesh EDA**](https://github.com/saditahmid/PortfolioProjects/blob/master/AQI_Data_Cleaning/AQI_Bangladesh_EDA.ipynb) | 9-year longitudinal analysis of air quality across 13 Bangladesh cities. Seasonal heatmaps, COVID-19 lockdown impact analysis, city pollution rankings. | Python · Pandas · Seaborn |
+| [**AQI Bangladesh EDA**](https://saditahmid.github.io) | 9-year longitudinal analysis of air quality across 13 Bangladesh cities. Seasonal heatmaps, COVID-19 lockdown impact analysis, city pollution rankings. | Python · Pandas · Seaborn |
 | [**Student Performance Monitor**](https://github.com/saditahmid/SPM_Advanced) | Cloud-based web app for tracking and visualizing academic performance at scale. | Node.js · Express · SQLite |
 
 > 📄 All research datasets, notebooks, and analysis code are available in the repositories above.
