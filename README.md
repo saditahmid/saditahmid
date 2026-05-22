@@ -20,7 +20,7 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 - 🔬 &nbsp;Research areas: **IoMT cybersecurity**, public health modeling, environmental analytics, and computer vision
 - 🤖 &nbsp;Industry experience in **LLM evaluation**, multimodal annotation, and RLHF pipelines
 - 🌐 &nbsp;Portfolio: [saditahmid.github.io](https://saditahmid.github.io)
-- ✉️ &nbsp;[saditahmid.ts@gmail.com](mailto:saditahmid.ts@gmail.com)
+- ✉️ &nbsp;[mhoss139@asu.edu](mailto:mhoss139@asu.edu)
 - ⚡ &nbsp;*My laugh is funnier than the joke*
 
 ---
