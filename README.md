@@ -29,7 +29,7 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 
 <div align="center">
 
-![Citations](https://img.shields.io/badge/Citations-28-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
+![Citations](https://img.shields.io/badge/Citations-29-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
 ![h-index](https://img.shields.io/badge/h--index-3-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
 ![i10-index](https://img.shields.io/badge/i10--index-2-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
 
