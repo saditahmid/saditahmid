@@ -47,10 +47,11 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 
 
 ## Featured Work
-
+ 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**AQI Bangladesh EDA**](https://saditahmid.github.io) | 9-year longitudinal analysis of air quality across 13 Bangladesh cities. Seasonal heatmaps, COVID-19 lockdown impact analysis, city pollution rankings. | Python · Pandas · Seaborn |
+| [**AQI Bangladesh EDA**](https://github.com/saditahmid/PortfolioProjects/blob/master/AQI_Data_Cleaning/AQI_Bangladesh_EDA.ipynb) | 9-year longitudinal analysis of air quality across 13 Bangladesh cities. Seasonal heatmaps, COVID-19 lockdown impact analysis, city pollution rankings. | Python · Pandas · Seaborn |
+| [**Dengue Bangladesh EDA**](https://github.com/saditahmid/PortfolioProjects/blob/master/Dengue_EDA/Dengue_Bangladesh_EDA.ipynb) | Longitudinal analysis of dengue across 8 divisions (2014–2022): the 2019 epidemic spike, seasonal transmission windows, Dhaka's outsized burden, and climate–outbreak correlation. | Python · Pandas · Seaborn |
 | [**Student Performance Monitor**](https://github.com/saditahmid/SPM_Advanced) | Cloud-based web app for tracking and visualizing academic performance at scale. | Node.js · Express · SQLite |
 
 > 📄 All research datasets, notebooks, and analysis code are available in the repositories above.
