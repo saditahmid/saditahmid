@@ -29,7 +29,7 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 
 <div align="center">
 
-![Citations](https://img.shields.io/badge/Citations-29-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
+![Citations](https://img.shields.io/badge/Citations-28-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
 ![h-index](https://img.shields.io/badge/h--index-3-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
 ![i10-index](https://img.shields.io/badge/i10--index-2-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)
 
@@ -41,9 +41,10 @@ Data Quality Specialist and AI Researcher with 2+ years of experience in **multi
 |---|-------|-------|:--------:|
 | 1 | [**Impact of COVID-19 Lockdowns on Air Quality in Bangladesh**: AQI Forecasting with Support Vector Regression](https://www.researchgate.net/publication/372261119_Impact_of_COVID-19_Lockdowns_on_Air_Quality_in_Bangladesh_Analysis_and_AQI_Forecasting_with_Support_Vector_Regression) | IEEE INCET 2023 · India | **12** |
 | 2 | [**Cyberattacks Classification on IoMT** Using Information Gain Feature Selection and Machine Learning](https://www.researchgate.net/publication/384917773_Cyberattacks_Classification_on_Internet_of_Medical_Things_Using_Information_Gain_Feature_Selection_and_Machine_Learning) | IEEE ASET 2024 · UAE | **10** |
-| 3 | [**Understanding the Dynamics of Dengue in Bangladesh**: EDA, Climate Correlation, and Predictive Modeling](https://www.researchgate.net/publication/375844451_Understanding_the_Dynamics_of_Dengue_in_Bangladesh_EDA_Climate_Correlation_and_Predictive_Modeling) | IEEE TENCON 2023 · Thailand | **7** |
-| 4 | [**Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models** on the Poribohon-BD Vehicle Dataset](https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset) | IEEE SCOReD 2025 · Malaysia | — |
+| 3 | [**Understanding the Dynamics of Dengue in Bangladesh**: EDA, Climate Correlation, and Predictive Modeling](https://www.researchgate.net/publication/375844451_Understanding_the_Dynamics_of_Dengue_in_Bangladesh_EDA_Climate_Correlation_and_Predictive_Modeling) | IEEE TENCON 2023 · Thailand | **6** |
+| 4 | [**Resolution, Compression, and GAN-Enhanced Evaluation of YOLO Models** on the Poribohon-BD Vehicle Dataset](https://www.researchgate.net/publication/401188004_Resolution_Compression_and_GAN-Enhanced_Evaluation_of_YOLO_Models_on_the_Poribohon-BD_Vehicle_Dataset) | IEEE SCOReD 2025 · Malaysia | **0** |
 
+| 5 | [**Cyberattacks Classification on Internet of Medical** Things Using Information Gain Feature Selection and Machine Learning](https://ieeexplore.ieee.org/abstract/document/10708692/) | 2024 | **10** |
 ---
 
 
