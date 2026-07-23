@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=saditahmid&label=Profile+Views&color=6d28d9&style=flat-square)](https://github.com/saditahmid)
 [![Portfolio](https://img.shields.io/badge/Portfolio-saditahmid.github.io-6d28d9?style=flat-square&logo=github&logoColor=white)](https://saditahmid.github.io)
-[![CV](https://img.shields.io/badge/Curriculum%20Vitae-View-6d28d9?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/19eOi5nOhMKp3I9bplhYr8YtEmzpTiLyb/view?usp=sharing](https://drive.google.com/file/d/1OpMnxgDL0AacLQi57RU5cFjG5MEh1Qe4/view?usp=sharing))
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-View-6d28d9?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OpMnxgDL0AacLQi57RU5cFjG5MEh1Qe4/view?usp=sharing)
 
 </div>
 
